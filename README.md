@@ -1,3 +1,8 @@
+[click here for report](https://github.com/DeepthiKadiyala1/aifinal/blob/main/file.doc/report.docx)
+
+PPT LINK
+
+https://www.popai.pro/ppt-share?shareKey=144de8cd3bce951a489f6ffd9620e3c823a89d90a786f3c07c31737a92ad060b&utm_source=presentationsharepage
 AI Habit Builder
 
 An intelligent, adaptive habit-building assistant that breaks tasks into micro-tasks, adapts to users’ emotions and circadian rhythm, and provides multi-style AI coaching.
