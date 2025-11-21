@@ -1,0 +1,55 @@
+
+TEAM AI HABIT BUILDER
+TEAM MEMBERS:[GROUP 21]
+1. K.R.S. Deepthi
+2. V. Lakshmi Srinija
+3. D. Devika Sri
+4. K. Siri Manogna
+5. H. Sharanya
+
+1. Title – AI Habit Builder System
+This project focuses on building an AI-driven habit-building system that simplifies routines by breaking large tasks into micro-steps, adapting plans to the user’s emotions, and aligning habits with their natural circadian rhythm. The aim is to replace traditional habit trackers with a smart, automated, and highly personalized solution.
+
+2. Objective
+The main objective is to help users stay consistent with their daily habits by providing automated task breakdowns, emotion-based routine adjustments, and personalized coaching styles. This improves productivity, reduces overwhelm, and supports long-term behavioral development.
+
+3. Tools Used
+- TypeScript – core logic and component behavior
+- JavaScript – functional interactions and dynamic processing
+- HTML – structure of the user interface
+- CSS – styling and layout
+Additional tools:
+- Gemini AI / ChatGPT – intelligent task breaking, mood analysis, and coach personality responses
+- Prompt Engineering – fine‑tuned outputs for emotional and behavioral adaptation
+- GitHub – version control and project management
+- PPT Builder (POPAI) – for presentation creation
+
+4. Methodology
+The system is structured into four key modules:
+1. Automatic Habit Breaker: Converts tasks like “Study a chapter” into micro‑steps (skim → read → highlight → notes → revision).
+2. Emotional‑Adaptive Engine: Adjusts tasks based on a one‑sentence daily mood input.
+3. Multi‑Personality AI Coach: Provides Supportive, Strict, Cheerful, Calm, or Lightly Sarcastic guidance.
+4. Circadian Rhythm Aligner: Shifts routines based on sleep/wake times to maintain realistic schedules.
+
+After module creation, multiple test cases were conducted to ensure correctness, adaptability, and timing accuracy.
+
+5. Output
+The system generates:
+- Micro‑tasks for large goals
+- Mood‑adapted habit plans
+- Dynamic circadian‑based schedule alignment
+- Personalized coaching messages
+
+6. Result
+The AI Habit Builder improves consistency and reduces decision fatigue. Users complete routines more easily due to smaller steps, mood‑based adjustments and flexible scheduling. This proves AI can significantly enhance habit formation.
+
+7. Conclusion
+The project highlights how AI can transform productivity through personalized, adaptive, emotionally aware habit planning. Automated task breakdowns and circadian‑aligned schedules offer realistic and achievable routines, supporting long‑term consistency.
+
+8. Project Links
+Project Repository:
+https://github.com/srinija06/AI-habit-builder
+
+PPT Presentation:
+https://www.popai.pro/ppt-share?shareKey=144de8cd3bce951a489f6ffd9620e3c823a89d90a786f3c07c31737a92ad060b&utm_source=presentationsharepage
+
