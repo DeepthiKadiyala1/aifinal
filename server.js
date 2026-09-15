@@ -1,6 +1,6 @@
 import express from "express";
 import fetch from "node-fetch";
-
+import path from "path";
 const app = express();
 app.use(express.json());
 
@@ -86,6 +86,11 @@ app.post("/api/generate-breakdown", async (req, res) => {
     console.error(err);
     return res.status(500).json({ error: "server error" });
   }
+});
+app.use(express.static("dist"));
+
+app.use((req, res) => {
+  res.sendFile(path.resolve("dist", "index.html"));
 });
 
 app.listen(PORT, () => {
