@@ -118,7 +118,7 @@ app.post("/api/generate-breakdown", async (req, res) => {
 });
 
 // Send the React app for all other browser requests
-app.get("*", (req, res) => {
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, "dist", "index.html"));
 });
 
